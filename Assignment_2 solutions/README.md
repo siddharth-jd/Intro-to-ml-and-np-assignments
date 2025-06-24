@@ -10,5 +10,5 @@ Compare manual TF-IDF scores with scikit-learn's `CountVectorizer` and `TfidfVec
 - Common words like "the" have low TF-IDF scores because they appear in all documents.
 
 ## Files
-- `TFIDF_Manual_Comparison.ipynb`: Code for manual TF-IDF and comparisons.
+- `Assignment_2.1.ipynb`: Code for manual TF-IDF and comparisons.
 - `README.md`: This summary.
